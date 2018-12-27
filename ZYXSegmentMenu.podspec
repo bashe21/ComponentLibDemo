@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ZYXSegmentMenu"
-  s.version      = "1.1"
+  s.version      = "v1.1"
   s.summary      = "common Categories"
 
   # This description is used to generate tags and improve search results.
