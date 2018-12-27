@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ZYXSegmentMenu"
-  s.version      = "1.0"
-  s.summary      = "A short description of ZYXSegmentMenu."
+  s.version      = "1.1"
+  s.summary      = "common Categories"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -80,7 +80,7 @@ TODO: Add long description of the pod here.
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/bashe21/ComponentLibDemo", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/bashe21/ComponentLibDemo.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
